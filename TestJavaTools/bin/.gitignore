@@ -1,0 +1,11 @@
+/com/
+/commons-configuration-1.6.jar
+/commons-httpclient-3.0.1.jar
+/commons-lang-2.4.jar
+/commons-logging-1.1.1.jar
+/hadoop-core-1.2.1.jar
+/jackson-core-asl-1.8.8.jar
+/jackson-mapper-asl-1.8.8.jar
+/junit-4.1.jar
+/mrunit-1.0.0-hadoop1.jar
+/test/
